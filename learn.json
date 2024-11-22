@@ -15,5 +15,12 @@
     "es": "Realiza un análisis de datos sensibles para una organización ficticia. Identifica y clasifica tipos de datos sensibles, mapea flujos de datos e identifica puntos de riesgo. Aprende habilidades esenciales para implementar estrategias efectivas de DLP."
   },
   "autoPlay": false,
-  "projectType": "project"
+  "projectType": "project",
+	"delivery": {
+		"instructions": {
+			"us": "Attach the files with the answers to the questions.",
+			"es": "Adjunta los archivos con las respuestas a las preguntas"
+		},
+		"formats": ["application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,application/pdf","image/jpeg","image/png","application/xslt+xml","application/vnd.ms-excel"]
+	}
 }
